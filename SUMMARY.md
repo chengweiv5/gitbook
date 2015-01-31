@@ -21,3 +21,4 @@
   * [实用插件](plugins/functional/README.md)
     * [disqus](plugins/functional/disqus.md)
     * [multipart](plugins/functional/multipart.md)
+    * [toggle-chapters](plugins/functional/toggle-chapters.md)
