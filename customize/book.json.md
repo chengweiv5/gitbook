@@ -119,7 +119,7 @@ $ gitbook serve
 :%!python -m json.tool
 ```
 
-很显然，下面的配置不能通过，所以删去。
+很显然，下面的配置不能通过，所以删去（注：但是默认主题却是使用的这个配置！）。
 
 ```json
     "pluginsConfig": {
