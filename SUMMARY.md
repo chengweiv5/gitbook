@@ -1,5 +1,6 @@
-# SUMMARY
+# GitBook 简明教程
 
+## GitBook Basic
 * [简介](introduction/README.md)
 * [安装](installation/README.md)
 * [使用](basic-usage/README.md)
@@ -10,6 +11,8 @@
     * [书籍主题](gitbook.com/config/theme.md)
     * [GitHub 集成](gitbook.com/config/github.md)
     * [绑定域名](gitbook.com/config/domain.md)
+
+## GitBook Advanced
 * [个性化配置](customize/README.md)
   * [book.json](customize/book.json.md)
 * [插件](plugins/README.md)
@@ -17,3 +20,4 @@
     * [comscore](plugins/theme/comscore.md)
   * [实用插件](plugins/functional/README.md)
     * [disqus](plugins/functional/disqus.md)
+    * [multipart](plugins/functional/multipart.md)

@@ -33,7 +33,8 @@
     "plugins": [
         "disqus",
         "anchors",
-        "comscore"
+        "comscore",
+        "multipart"
     ],
     "pluginsConfig": {
         "disqus": {
