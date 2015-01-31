@@ -31,7 +31,9 @@
         "paperSize": "a4"
     },
     "plugins": [
-        "disqus"
+        "disqus",
+        "anchors",
+        "comscore"
     ],
     "pluginsConfig": {
         "disqus": {
