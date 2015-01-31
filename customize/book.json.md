@@ -215,3 +215,5 @@ $ gitbook serve
 ![configure book.json](/assets/customize/book-json.png)
 
 可以看到，书籍的标题变成了 "Sample GitBook"，而且在左边的导航栏中添加了一个链接！
+
+需要注意的是：GitBook.com 上的书籍标题经试验不能通过配置 `book.json` 的方式修改 `title`，需要在书籍的属性页面中的 'Settings' 中进行修改！
