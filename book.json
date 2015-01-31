@@ -30,7 +30,14 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
-    "title": "GitBook 简明教程",
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "introducetogitbook"
+        }
+    },
+    "title": "GitBook \u7b80\u660e\u6559\u7a0b",
     "variables": {}
 }

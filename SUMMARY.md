@@ -12,3 +12,8 @@
     * [绑定域名](gitbook.com/config/domain.md)
 * [个性化配置](customize/README.md)
   * [book.json](customize/book.json.md)
+* [插件](plugins/README.md)
+  * [主题插件](plugins/theme/README.md)
+    * [clarity](plugins/theme/clarity.md)
+  * [实用插件](plugins/functional/README.md)
+    * [disqus](plugins/functional/disqus.md)
