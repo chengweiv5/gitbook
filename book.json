@@ -34,7 +34,8 @@
         "disqus",
         "anchors",
         "comscore",
-        "multipart"
+        "multipart",
+        "codeblock-filename"
     ],
     "pluginsConfig": {
         "disqus": {

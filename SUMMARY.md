@@ -22,3 +22,4 @@
     * [disqus](plugins/functional/disqus.md)
     * [multipart](plugins/functional/multipart.md)
     * [toggle-chapters](plugins/functional/toggle-chapters.md)
+    * [codeblock-filename](plugins/functional/codeblock-filename.md)
