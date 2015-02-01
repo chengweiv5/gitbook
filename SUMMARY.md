@@ -22,3 +22,4 @@
     * [multipart](plugins/functional/multipart.md)
     * [toggle-chapters](plugins/functional/toggle-chapters.md)
     * [codeblock-filename](plugins/functional/codeblock-filename.md)
+* [发布到 GitHub Pages](github-pages/README.md)
