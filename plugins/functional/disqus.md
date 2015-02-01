@@ -29,4 +29,4 @@ $ npm install gitbook-plugin-disqus -g
 
 效果如下图所示：
 
-![disqus](/assets/plugins/disqus.png)
+![disqus](../../assets/plugins/disqus.png)

@@ -8,15 +8,15 @@
 
 首先，在书籍的属性页面找到 "Domain Names" 属性，如下图：
 
-![book domain names](/assets/gitbook.com/book-property-domain.png)
+![book domain names](../../assets/gitbook.com/book-property-domain.png)
 
 点击 "Domain Names"，进入配置页面，如下图：
 
-![domain name config](/assets/gitbook.com/domain-name-config.png)
+![domain name config](../../assets/gitbook.com/domain-name-config.png)
 
 分别为书籍的封面和内容设置一个域名，如下图所示：
 
-![domain name for test](/assets/gitbook.com/domain-name-for-test.png)
+![domain name for test](../../assets/gitbook.com/domain-name-for-test.png)
 
 需要注意的是：这里只能是一个合法的域名，不能是域名下的某个地址，例如：`chengweiyang.cn/test`, `chengweiyang.cn/test/content`。
 
@@ -64,8 +64,8 @@ Address: 23.21.177.67
 
 现在，将浏览器指向 `http://test.chengweiyang.cn` 就可以看到书籍了。
 
-![test book new domain](/assets/gitbook.com/new-book-domain.png)
+![test book new domain](../../assets/gitbook.com/new-book-domain.png)
 
 点击 "READ" 按钮，或者直接将浏览器指向 `http://content.test.chengweiyang.cn` 就可以阅读书籍内容了！
 
-![read test book](/assets/gitbook.com/new-book-content-domain.png)
+![read test book](../../assets/gitbook.com/new-book-content-domain.png)

@@ -4,17 +4,17 @@
 
 登陆 [GitBook.com](https://www.gitbook.com) 后，在用户页面，可以管理现有书籍以及创建新的书籍，如下图：
 
-![create a new book](/assets/gitbook.com/new-book-button.png "create a new book")
+![create a new book](../assets/gitbook.com/new-book-button.png "create a new book")
 
 点击 "+ Create a new book" 后，跳转到新建书籍页面，如下图：
 
-![setup a new book](/assets/gitbook.com/new-book.png "setup a new book")
+![setup a new book](../assets/gitbook.com/new-book.png "setup a new book")
 
 目前有 4 中书籍主题可以选择，这里以默认的 `Basic` 主题为例，输入书籍名字后，点击 "Create book"，完成书籍的创建。
 
 创建完成后，就会进入书籍属性页面，如下图所示：
 
-![book properties](/assets/gitbook.com/book-properties.png)
+![book properties](../assets/gitbook.com/book-properties.png)
 
 这里可以进行对书籍的各个属性进行配置，例如：
 

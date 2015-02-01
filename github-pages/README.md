@@ -92,7 +92,7 @@ Branch master set up to track remote branch gh-pages from github.
 
 现在，书籍的内容已经上传到 GitHub 上，所以通过访问 *chengweiv5.github.io/test* 就可以阅读 *test* 这本书了！
 
-![gitbook git-pages](/assets/github-pages/gitbook-git-pages.png)
+![gitbook git-pages](../assets/github-pages/gitbook-git-pages.png)
 
 注意：由于我将 *chengweiv5.github.io* 重定向到了个人站点 *www.chengweiyang.cn*，所以可以看到，浏览器中的 URL 自动变成了 *www.chengweiyang.cn/test*，非常 cool! 关于怎样重定向 GitHub Pages 到个人域名，请参考博客：[怎样使用 GitHub Pages 搭建个人站点](http://www.chengweiyang.cn/2014/07/19/Whats-behind-this-site/)。
 

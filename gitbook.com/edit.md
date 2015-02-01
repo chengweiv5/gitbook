@@ -20,11 +20,11 @@ gitbook editor 实际上就是一个本地应用版的在线编辑器，使用�
 
 GitBook.com 上的每本书都使用 Git 项目来管理，所以，这里首先需要克隆需要编辑书籍的 Git 项目，登陆 GitBook.com 后，跳转到书籍的属性页面，如下图所示：
 
-![book properties](/assets/gitbook.com/book-properties.png)
+![book properties](../assets/gitbook.com/book-properties.png)
 
 点击 "Edit Book" 上方的 "learn more"，将会展现此书籍的 Git 项目地址，以及简单的使用方法，如下图所示：
 
-![git project](/assets/gitbook.com/book-git-project.png)
+![git project](../assets/gitbook.com/book-git-project.png)
 
 使用如下命令，克隆书籍的源代码：
 
@@ -82,8 +82,8 @@ To https://git.gitbook.com/chengweiv5/test.git
 
 提交到 GitBook.com 后，书籍就自动发布了，用户就可以通过书籍的地址访问了，例如：`http://chengweiv5.gitbooks.io/test/`
 
-![publish book](/assets/gitbook.com/publish-book.png)
+![publish book](../assets/gitbook.com/publish-book.png)
 
 点击 "READ" 按钮，就可以阅读书籍的内容了，如下图所示：
 
-![read book](/assets/gitbook.com/read-book.png)
+![read book](../assets/gitbook.com/read-book.png)

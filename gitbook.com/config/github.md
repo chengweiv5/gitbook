@@ -16,21 +16,21 @@ GitBook.com 为每本书籍都创建了一个 Git 项目，并且使用这个 Gi
 
 首先，将书籍的 Git 项目设置为 GitHub 上的项目，进入书籍属性页面，找到 "GitHub" 图标，如下图：
 
-![book github](/assets/gitbook.com/book-property-github.png)
+![book github](../../assets/gitbook.com/book-property-github.png)
 
 输入将要使用的 GitHub 上的项目，注意是公开的项目，如下图：
 
-![new github tree](/assets/gitbook.com/github.png)
+![new github tree](../../assets/gitbook.com/github.png)
 
 保存后，可以看到之前不可点击的 "Add a deployment webhook" 按钮已经可以点击了，这个按钮表示：每当用户配置的 GitHub 上的项目更新时，自动更新书籍！
 
-![github webhook](/assets/gitbook.com/github-webhook.png)
+![github webhook](../../assets/gitbook.com/github-webhook.png)
 
 ## 创建 GitHub 项目
 
 假设上面配置的 GitHub 中的项目并不存在，那么，首先，登陆 GitHub，然后创建一个 test 项目，如下图所示：
 
-![create github project](/assets/gitbook.com/github-new-project.png)
+![create github project](../../assets/gitbook.com/github-new-project.png)
 
 ## 导入代码
 
@@ -85,4 +85,4 @@ To https://github.com/chengweiv5/test.git
    b6a8b3f..d985a79  master -> master
 ```
 
-![hello from github](/assets/gitbook.com/updated-from-github.png)
+![hello from github](../../assets/gitbook.com/updated-from-github.png)

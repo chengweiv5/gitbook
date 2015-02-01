@@ -212,7 +212,7 @@ $ gitbook serve
 
 现在，重新编译书籍，预览效果，如下图所示：
 
-![configure book.json](/assets/customize/book-json.png)
+![configure book.json](../assets/customize/book-json.png)
 
 可以看到，书籍的标题变成了 "Sample GitBook"，而且在左边的导航栏中添加了一个链接！
 
