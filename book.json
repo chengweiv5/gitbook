@@ -16,7 +16,7 @@
             "Chengwei's Blog": "http://www.chengweiyang.cn"
         }
     },
-    "output": null,
+    "output": "../gitbook-gh-pages",
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
