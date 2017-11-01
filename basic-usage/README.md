@@ -86,7 +86,7 @@ Serving book on http://localhost:4000
 
 现在，gitbook 为我们创建了书籍目录结构后，就可以向其中添加真正的内容了，文件的编写使用 markdown 语法，在文件修改过程中，每一次保存文件，`gitbook serve` 都会自动重新编译，所以可以持续通过浏览器来查看最新的书籍效果！
 
-另外，用户还可以下载 [gitbook 编辑器](https://github.com/GitbookIO/editor)，做到所见即所得的编辑，如下图所示：
+另外，用户还可以下载 [gitbook 编辑器](https://www.gitbook.com/editor)，做到所见即所得的编辑，如下图所示：
 
 ![gitbook editor](../assets/basic-usage/gitbook-editor.png "gitbook editor")
 
